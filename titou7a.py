@@ -1,0 +1,1 @@
+print ("nhebek titou7ti")
